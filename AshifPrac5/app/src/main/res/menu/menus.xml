@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="India" >
+        <!-- "file" submenu -->
+        <menu>
+            <item android:title="New Delhi" />
+            <item android:title="Kolkata" />
+            <item android:title="Mumbai" />
+            <item android:title="Jaipur" />
+            <item android:title="Mumbai" />
+            <item android:title="Goa" />
+            <item android:title="Agra" />
+
+        </menu>
+    </item>
+    <item android:title="USA" >
+        <!-- "file" submenu -->
+        <menu>
+            <item android:title="San Francisco" />
+            <item android:title="Queens" />
+            <item android:title="California" />
+            <item android:title="Los Angles" />
+            <item android:title="Seattle" />
+            <item android:title="Silicon Valley" />
+        </menu>
+    </item>
+    <item android:title="United Kingdom" >
+        <!-- "file" submenu -->
+        <menu>
+            <item android:title="London" />
+            <item android:title="Cambridge" />
+            <item android:title="Oxford" />
+            <item android:title="Manchester" />
+            <item android:title="Liverpool" />
+        </menu>
+    </item>
+    <item android:title="Italy" >
+        <!-- "file" submenu -->
+        <menu>
+            <item android:title="Rome" />
+            <item android:title="Venice " />
+        </menu>
+    </item>
+</menu>

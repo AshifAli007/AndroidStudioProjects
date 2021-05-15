@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AshifPrac15</string>
+    <string name="first_name">first_name</string>
+    <string name="last_name">last_name</string>
+    <string name="email_address">email_address</string>
+    <string name="college_roll_number">college_roll_number</string>
+    <string name="add_data">add_data</string>
+    <string name="view_data">view_data</string>
+    <string name="update_data">update_data</string>
+    <string name="delete_data">delete_data</string>
+</resources>
